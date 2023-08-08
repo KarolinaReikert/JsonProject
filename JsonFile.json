@@ -1,0 +1,11 @@
+{
+  "name": "Raimonds",
+  "age": 32,
+  "car": false
+}
+
+{
+  "Name": "Raimonds",
+  "Age": 32,
+  "Car": false
+}

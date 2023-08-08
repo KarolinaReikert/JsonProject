@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 0,
+      "firstName": "Anna",
+      "lastName": "Berzina"
+    },
+
+    {
+      "id": 1,
+      "firstName": "Toms",
+      "lastName": "Liepa"
+    },
+    {
+      "id": 2,
+      "firstName": "Darta",
+      "lastName": "Ozolina"
+    }
+    [
+      {
+        "Name": "Raimonds",
+        "Age": 32,
+        "Car": false
+      },
+      {
+        "Name": "Anna",
+        "Age": 31,
+        "Car": true
+      },
+      {
+        "Name": "Toms",
+        "Age": 25,
+        "Car": true
+      }
+    ]
+  ]
+}
